@@ -1,5 +1,7 @@
+libgl1
+ffmpeg
 streamlit
 numpy
 opencv-python-headless
 ultralytics
-ffmpeg
+
