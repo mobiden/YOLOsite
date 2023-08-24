@@ -5,7 +5,7 @@ import numpy as np
 
 #@st.cache_data
 
-model = YOLO("3506_best.pt")
+model = YOLO("https://github.com/mobiden/YOLOsite/blob/bb698daf04e869c4d6906a51b323a79c695e5bb1/3506_best.pt")
 
 st.title('Поиск оружия на фотографиях')
 
